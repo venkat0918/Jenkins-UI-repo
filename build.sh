@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash -l
 echo "-------------Install Dependencies------------"
 npm install
 echo "-------------Installed successfully-----------"
